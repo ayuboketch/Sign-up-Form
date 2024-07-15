@@ -18,6 +18,8 @@ body {
     align-items: center;
     justify-content: center;
     background: radial-gradient(circle, #7FFF00, #006400, black);
+    flex-wrap: wrap;
+    
 }
 .bodyContent {
     display: flex;
